@@ -43,3 +43,6 @@ Diferente de apps genéricos de videoconferência, o **FitLive AI** é especiali
 - 👥 Interação em tempo real (treinador ↔ aluno)  
 - 🎨 Interface simples e intuitiva
   
+## Link Projeto
+
+- https://manus.im/app-preview/FEUMQKFreWigGwGpquErwW?sessionId=4U8HzOjk2CzAn01UInzNNm
