@@ -51,4 +51,4 @@ Diferente de apps genéricos de videoconferência, o **FitLive AI** é especiali
 
 -![Tela do App](screenshots/QRCODE.png)
 
--![Tela do App](screenshots/QRCODE.png)
+-![Tela do App](screenshots/jitsi.png)
