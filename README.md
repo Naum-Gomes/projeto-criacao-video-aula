@@ -47,6 +47,8 @@ Diferente de apps genéricos de videoconferência, o **FitLive AI** é especiali
 
 - https://manus.im/app-preview/FEUMQKFreWigGwGpquErwW?sessionId=4U8HzOjk2CzAn01UInzNNm
 
-## QRcode
+## Preview
+
+-![Tela do App](screenshots/QRCODE.png)
 
 -![Tela do App](screenshots/QRCODE.png)
